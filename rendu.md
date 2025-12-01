@@ -6,7 +6,7 @@ Esteban RODRIGUEZ
 
 ## Repository and Docker Hub Image Links
 
-- **Public GitHub Repository URL:** https://github.com/YOUR_USERNAME/web-secu-ci-cd
+- **Public GitHub Repository URL:** https://github.com/crepefeu/web-secu-ci-cd
 - **Docker Hub Repository URL:** [0x3st3/vulnerable-web-app:latest](https://hub.docker.com/repository/docker/0x3st3/vulnerable-web-app/general)
 
 ## Screenshots
